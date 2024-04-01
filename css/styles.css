@@ -4,11 +4,9 @@
   box-sizing: border-box;
   text-align: center;
 }
-
 body {
   background-color: #242221;
 }
-
 .calculator {
   width: 350px;
   height: 320px;
@@ -19,7 +17,6 @@ body {
   margin: auto; /* Adicionado para centralizar a calculadora na página */
   margin-top: 50px; /* Ajuste para espaçamento superior */
 }
-
 #display {
   width: 320px;
   height: 40px;
